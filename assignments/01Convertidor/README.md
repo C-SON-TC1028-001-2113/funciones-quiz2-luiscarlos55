@@ -18,8 +18,8 @@ if __name__ == '__main__':
 La línea `#Escribe tu código abajo de esta línea` es un comentario,
 el programa la va a ignorar al ejecutarse.
 
-Escribe un programa que convierta pies, pulgadas y yardas a centímetros, para lo cual debes definir tres funciones:
-- La función **pies_cm(pies)** que recibe una cantidad en `pies`(entero positivo) y devuelva su equivalencia en centímetros.
+Escribevierta pies, pulgadas y yardas a centímetros, para lo cual debes definir tres funciones:
+- La un programa que con función **pies_cm(pies)** que recibe una cantidad en `pies`(entero positivo) y devuelva su equivalencia en centímetros.
 - La función **pulgadas_cm(pulgadas)** que recibe una cantidad en `pulgadas`(entero positivo) y devuelva su equivalencia en centímetros.
 - La función **yardas_cm(yardas)** que recibe una cantidad en `yardas`(entero positivo) y devuelva su equivalencia en centímetros.
 
